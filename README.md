@@ -1,7 +1,7 @@
 # ScriptGuard
 
 **A private, offline AI safety net for discharge medication mismatches.**
-Built at the Dell × NVIDIA AI Hackathon, Boston — October 2026.
+Built at the Dell × NVIDIA AI Hackathon, Boston - October 2026.
 
 ScriptGuard reads a patient's discharge summary and discharge prescription (PDF, scan, photo, or
 pasted text), finds every medication mismatch between them, holds the order, and shows the
